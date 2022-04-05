@@ -11,7 +11,7 @@
     "src"
   ],
   "keywords": [],
-  "author": "Henrique Schreiner",
+  "author": "Luiz Henrique Vitorino",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.20.0",
